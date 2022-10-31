@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudhanshusrii
-- 👀 I’m interested in dev and programming
+- 👀 I’m interested in dev and programming .
 - 🌱 I’m currently learning python .
 - 💞️ I’m looking to collaborate on python projects .
 - 📫 How to reach me github
