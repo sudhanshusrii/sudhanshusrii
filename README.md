@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudhanshusrii
 - 👀 I’m interested in dev
-- 🌱 I’m currently learning pythoon
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects 
 - 📫 How to reach me github
 
